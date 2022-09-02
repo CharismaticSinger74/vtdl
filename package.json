@@ -1,0 +1,21 @@
+{
+  "name": "vtdl",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vue/eslint-config-airbnb": "^6.0.0",
+    "core-js": "^3.8.3",
+    "materialize-css": "^1.0.0-rc.2",
+    "vue": "^3.2.13"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "eslint": "^8.21.0",
+    "eslint-plugin-vue": "^9.3.0"
+  }
+}
